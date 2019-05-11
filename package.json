@@ -1,0 +1,32 @@
+{
+  "name": "travel-site",
+  "version": "1.0.0",
+  "description": "mastering project",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp-sourcemaps": "^2.6.5",
+    "jquery": "^3.4.1",
+    "normalize.css": "^8.0.1"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.26.5",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^6.1.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-watch": "^5.0.1",
+    "node-sass": "^4.12.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AsmaaAlbaik/travelSite.git"
+  },
+  "author": "asmaa albaik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AsmaaAlbaik/travelSite/issues"
+  },
+  "homepage": "https://github.com/AsmaaAlbaik/travelSite#readme"
+}
