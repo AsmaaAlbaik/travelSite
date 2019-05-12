@@ -10,8 +10,8 @@
     display: block;
     margin: 0 auto;
     @include atSmall {
-      position: absolute;
-      left: 0;
+      display: inline-block;
+
     }
   }
 }

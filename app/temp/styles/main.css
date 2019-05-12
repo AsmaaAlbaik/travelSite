@@ -491,8 +491,7 @@ a {
     margin: 0 auto; }
     @media (min-width: 530px) {
       .section-title__icon {
-        position: absolute;
-        left: 0; } }
+        display: inline-block; } }
 
 .feature-item {
   position: relative;
